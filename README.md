@@ -284,6 +284,7 @@ docs/
 README.md
 PROMPTS.md
 ```
+---
 
 ## 🎨 UI/UX Wireframes
 
@@ -291,7 +292,12 @@ The UI/UX wireframes for TaskMatrix were designed in Figma before implementation
 
 ### 🔗 Figma Design
 
-> **Figma Link:** https://www.figma.com/file/XXXXXXXXXXXX/TaskMatrix-Capstone-UI
+> **Figma Link:**
+https://www.figma.com/design/grnlwBQ6QqTrbq4x62XUiz/TaskMatrix---Capstone-UI?node-id=0-1&t=xNehmF1sy9m1LoU6-1
+
+https://www.figma.com/design/grnlwBQ6QqTrbq4x62XUiz/TaskMatrix---Capstone-UI?node-id=82-26&t=xNehmF1sy9m1LoU6-1
+
+https://www.figma.com/design/grnlwBQ6QqTrbq4x62XUiz/TaskMatrix---Capstone-UI?node-id=85-3&t=xNehmF1sy9m1LoU6-1
 
 ---
 
@@ -303,13 +309,13 @@ The UI/UX wireframes for TaskMatrix were designed in Figma before implementation
 
 ### 📋 Dashboard Screen
 
-![Dashboard Screen](docs/Project-Detail-Screen.png)
+![Dashboard Screen](docs/Dashnoard Screen.png)
 
 ---
 
 ### 📄 Project Detail Screen
 
-![Project Detail Screen](docs/Project%20Detail%20Screen.png)
+![Project Detail Screen](docs/Project-Detail-Screen.png)
 
 ---
 
