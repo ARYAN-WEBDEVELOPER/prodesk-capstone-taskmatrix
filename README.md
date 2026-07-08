@@ -228,7 +228,7 @@ TaskMatrix provides a centralized workspace where users can:
 | Comments     | Store task discussions           |
 | ActivityLogs | Store user activity history      |
 
-![Database Schema](docs/TaskMatrix Database Schema.png)
+![Database Schema](docs/TaskMatrix-Database-Schema.png)
 
 ---
 
@@ -284,25 +284,34 @@ docs/
 README.md
 PROMPTS.md
 ```
----
 
-# 🎨 UI/UX Wireframes
+## 🎨 UI/UX Wireframes
 
-The Figma wireframes will include:
+The UI/UX wireframes for TaskMatrix were designed in Figma before implementation. The design focuses on a clean, responsive, and modern project management interface.
 
-* Login Screen
-* Dashboard
-* Project Details (Kanban Board)
+### 🔗 Figma Design
 
-**Figma Link:** *(To be added after wireframe completion.)*
+> **Figma Link:** https://www.figma.com/file/XXXXXXXXXXXX/TaskMatrix-Capstone-UI
 
 ---
 
-# 🏗 Database Architecture
+### 📱 Login Screen
 
-An Entity Relationship Diagram (ERD) will be created to illustrate the relationships between Users, Projects, Tasks, Comments, and ActivityLogs.
+![Login Screen](docs/Login-Screen.png)
 
-**ERD Image:** *(To be added after completion.)*
+---
+
+### 📋 Dashboard Screen
+
+![Dashboard Screen](docs/Project-Detail-Screen.png)
+
+---
+
+### 📄 Project Detail Screen
+
+![Project Detail Screen](docs/Project%20Detail%20Screen.png)
+
+---
 
 ---
 
