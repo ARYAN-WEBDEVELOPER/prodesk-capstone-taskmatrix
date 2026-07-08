@@ -309,7 +309,7 @@ https://www.figma.com/design/grnlwBQ6QqTrbq4x62XUiz/TaskMatrix---Capstone-UI?nod
 
 ### 📋 Dashboard Screen
 
-![Dashboard Screen](docs/Dashnoard Screen.png)
+![Dashboard Screen](docs/Dashboard-Screen.png)
 
 ---
 
