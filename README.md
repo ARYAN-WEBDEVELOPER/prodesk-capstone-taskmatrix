@@ -228,6 +228,8 @@ TaskMatrix provides a centralized workspace where users can:
 | Comments     | Store task discussions           |
 | ActivityLogs | Store user activity history      |
 
+![Database Schema](docs/TaskMatrix Database Schema.png)
+
 ---
 
 # 🔌 Planned REST API
