@@ -34,6 +34,42 @@ Review my README and suggest improvements.
 ### Prompt 10
 Review my database schema and tell me if it follows good design practices.
 
+# Sprint 14 - Authentication Development
+
+## Prompt 1
+How do I securely hash user passwords in Node.js using bcryptjs before saving them to MongoDB?
+
+---
+
+## Prompt 2
+How do I generate and return a JWT after successful user login?
+
+---
+
+## Prompt 3
+How do I protect Express routes using JWT authentication middleware?
+
+---
+
+## Prompt 4
+How do I connect a React frontend with an Express backend using Axios?
+
+---
+
+## Prompt 5
+How do I store JWT securely in localStorage and redirect authenticated users to a protected dashboard?
+
+---
+
+## Prompt 6
+How do I configure CORS between a Vercel frontend and a Render backend?
+
+---
+
+## Prompt 7
+How do I deploy a MERN authentication application to Vercel and Render?
+
+
 ---
 
 ## AI Usage
